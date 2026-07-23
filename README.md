@@ -5,7 +5,7 @@ Computer Science Engineering Student | Cloud Enthusiast ☁️ | Data Science �
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Microsoft+Azure+Certified;Data+Science+Enthusiast;MERN+Stack+Developer;Always+Learning+New+Technologies🚀" />
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Naveen%20Mohanavel&text2=Software%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20Full%20Stack%20Developer&width=1000&height=250" alt="Banner"/>
 </p>
 
 ---
