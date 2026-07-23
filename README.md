@@ -5,7 +5,7 @@ Computer Science Engineering Student | Cloud Enthusiast ☁️ | Data Science �
 </h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" width="900"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750337-3d6f1b7b-fcb4-4d5b-9d6b-d2d8c73f3e2f.gif" width="500"/>
 </p>
 
 ---
