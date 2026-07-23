@@ -5,7 +5,7 @@ Computer Science Engineering Student | Cloud Enthusiast ☁️ | Data Science �
 </h3>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Naveen%20Mohanavel&text2=Software%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20Full%20Stack%20Developer&width=1000&height=250" alt="Banner"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" width="900"/>
 </p>
 
 ---
