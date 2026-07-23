@@ -5,7 +5,7 @@ Computer Science Engineering Student | Cloud Enthusiast ☁️ | Data Science �
 </h3>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750337-3d6f1b7b-fcb4-4d5b-9d6b-d2d8c73f3e2f.gif" width="500"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:9333EA&height=280&section=header&text=Naveen%20Mohanavel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Cloud%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=58"/>
 </p>
 
 ---
