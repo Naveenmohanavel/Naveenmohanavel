@@ -12,8 +12,6 @@ Computer Science Engineering Student | Cloud Enthusiast ☁️ | Data Science �
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
 - 🎓 **B.E. Computer Science and Engineering**
 - 🏫 Karpagam Institute of Technology
 - ☁️ Microsoft Azure Certified
