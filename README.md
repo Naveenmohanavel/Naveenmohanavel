@@ -5,9 +5,8 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Data+Science+%26+ML+Enthusiast;Cloud+%26+Azure+Explorer;Building+Real-World+Tech+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Data+Science+%26+Machine+Learning+Enthusiast;Cloud+%26+Microsoft+Azure+Explorer;Networking+%26+CCNA+Enthusiast;Building+Real-World+Tech+Solutions" alt="Typing SVG" />
 </a>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Naveenmohanavel&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views"/>
