@@ -1,234 +1,239 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Naveen Mohanavel | Portfolio</title>
-
-<style>
-
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    font-family:Arial, sans-serif;
-}
-
-body{
-    background:#f4f4f4;
-    color:#333;
-}
-
-header{
-    background:#222;
-    color:white;
-    padding:20px;
-    text-align:center;
-}
-
-nav{
-    background:#444;
-    padding:10px;
-    text-align:center;
-}
-
-nav a{
-    color:white;
-    text-decoration:none;
-    margin:20px;
-    font-weight:bold;
-}
-
-nav a:hover{
-    color:orange;
-}
-
-section{
-    width:80%;
-    margin:auto;
-    padding:40px 0;
-}
-
-h2{
-    color:#222;
-    margin-bottom:15px;
-}
-
-.card{
-    background:white;
-    padding:20px;
-    margin:20px 0;
-    border-radius:10px;
-    box-shadow:0 0 10px gray;
-}
-
-ul{
-    padding-left:20px;
-}
+# 🚀 Naveen Mohanavel Portfolio Website
 
-button{
-    background:#007BFF;
-    color:white;
-    padding:10px 20px;
-    border:none;
-    border-radius:5px;
-    cursor:pointer;
-}
+A modern, responsive, and interactive personal portfolio website built using **HTML, CSS, and JavaScript**. This portfolio showcases my technical skills, projects, education, certifications, achievements, and contact information in a clean and professional design.
 
-button:hover{
-    background:#0056b3;
-}
+---
+
+## 📌 Live Demo
 
-footer{
-    background:#222;
-    color:white;
-    text-align:center;
-    padding:15px;
-    margin-top:30px;
-}
+> https://yourusername.github.io/portfolio/
 
-</style>
+*(Replace with your GitHub Pages URL after deployment.)*
 
-</head>
+---
 
-<body>
+## 📷 Preview
 
-<header>
-    <h1>Naveen Mohanavel</h1>
-    <p>Computer Science Engineering Student</p>
-</header>
+![Portfolio Screenshot](images/portfolio-preview.png)
 
-<nav>
-    <a href="#about">About</a>
-    <a href="#skills">Skills</a>
-    <a href="#projects">Projects</a>
-    <a href="#education">Education</a>
-    <a href="#contact">Contact</a>
-</nav>
+*(Add a screenshot of your homepage in the images folder.)*
 
-<section id="about">
+---
 
-<div class="card">
-<h2>About Me</h2>
+# ✨ Features
 
-<p>
-Hello! I am Naveen Mohanavel, a Computer Science Engineering student passionate about Web Development, Java Programming, Cloud Computing, Networking, and AI technologies.
-</p>
+- 💻 Modern UI Design
+- 📱 Fully Responsive Layout
+- 🌙 Dark Theme
+- 🎨 Animated Gradient Background
+- ⚡ Smooth Scrolling Navigation
+- 👤 Hero Section with Profile Photo
+- 📊 Skills with Progress Bars
+- 💼 Project Showcase
+- 🎓 Education Timeline
+- 📜 Certifications Section
+- 🏆 Achievements Section
+- 📞 Contact Information
+- ✨ Interactive Animations
+- 🚀 GitHub Pages Ready
 
-</div>
+---
 
-</section>
+# 🛠️ Technologies Used
 
-<section id="skills">
+- HTML5
+- CSS3
+- JavaScript
+- Google Fonts
 
-<div class="card">
+---
 
-<h2>Skills</h2>
+# 📂 Project Structure
 
-<ul>
-<li>HTML</li>
-<li>CSS</li>
-<li>JavaScript</li>
-<li>Java</li>
-<li>Python</li>
-<li>SQL</li>
-<li>Git & GitHub</li>
-<li>Azure Cloud</li>
+```
+Portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│   ├── profile.jpg
+│   ├── portfolio-preview.png
+│   ├── project1.png
+│   ├── project2.png
+│   └── project3.png
+│
+├── assets/
+│
+├── resume/
+│   └── Resume.pdf
+│
+└── README.md
+```
 
-</ul>
+---
 
-</div>
+# 👨‍💻 Portfolio Sections
 
-</section>
+- Home
+- About Me
+- Skills
+- Technical Proficiency
+- Projects
+- Education
+- Certifications
+- Achievements
+- Contact
 
-<section id="projects">
+---
 
-<div class="card">
+# 💼 Featured Projects
 
-<h2>Projects</h2>
+### 🚦 Smart Traffic Control System
+- Built using MERN Stack
+- Real-time traffic monitoring
+- Intelligent traffic management
 
-<h3>1. Smart Traffic Control System</h3>
+### ☁️ Cloud Resume Website
+- Azure Blob Storage
+- Azure Functions
+- GitHub Pages Deployment
 
-<p>
-Developed a smart traffic management system using MERN Stack for intelligent traffic monitoring.
-</p>
+### 🌍 Smart Earthquake Detection System
+- IoT-based monitoring system
+- Sensor integration
+- Cloud-enabled alerts
 
-<br>
+---
 
-<h3>2. Cloud Resume Website</h3>
+# 🚀 Skills
 
-<p>
-Created a portfolio website using Azure Blob Storage, Azure Functions and GitHub Pages.
-</p>
+### Programming Languages
+- Java
+- Python
+- JavaScript
+- SQL
 
-<br>
+### Web Development
+- HTML5
+- CSS3
+- JavaScript
 
-<h3>3. Smart Earthquake Detection System</h3>
+### Cloud
+- Microsoft Azure
+- Azure Functions
+- Azure Blob Storage
 
-<p>
-An IoT-based system for detecting earthquakes using sensors and cloud technologies.
-</p>
+### Database
+- MySQL
 
-</div>
+### Tools
+- Git
+- GitHub
+- VS Code
 
-</section>
+---
 
-<section id="education">
+# 📚 Education
 
-<div class="card">
+**Bachelor of Engineering (Computer Science and Engineering)**
 
-<h2>Education</h2>
+Karpagam Institute of Technology
 
-<p>
-<b>B.E Computer Science and Engineering</b><br>
-Karpagam Institute of Technology<br>
-2023 - 2027
-</p>
+2023 – 2027
 
-</div>
+---
 
-</section>
+# 📜 Certifications
 
-<section id="contact">
+- Microsoft Azure Fundamentals (AZ-900)
+- Software Testing Certification
+- Additional Professional Certifications
 
-<div class="card">
+---
 
-<h2>Contact</h2>
+# 📞 Contact
 
-<p>Email : yourmail@gmail.com</p>
+**Name:** Naveen Mohanavel
 
-<p>Phone : +91 XXXXXXXXXX</p>
+**Email:** yourmail@gmail.com
 
-<p>GitHub :
-<a href="https://github.com/yourusername" target="_blank">
-https://github.com/yourusername
-</a>
-</p>
+**GitHub:** https://github.com/yourusername
 
-<br>
+**LinkedIn:** https://linkedin.com/in/yourusername
 
-<button onclick="message()">
-Say Hello
-</button>
+---
 
-</div>
+# 🚀 Installation
 
-</section>
+Clone the repository
 
-<footer>
+```bash
+git clone https://github.com/yourusername/portfolio.git
+```
 
-<p>© 2026 Naveen Mohanavel | All Rights Reserved</p>
+Open the project folder
 
-</footer>
+```bash
+cd portfolio
+```
 
-<script>
+Run the website
 
-function message()
-{
-    alert("Thank you for visiting my Portfolio!");
-}
+```text
+Open index.html in your browser
+```
 
-</script>
+---
 
-</body>
-</html>
+# 🌐 Deployment
+
+This website can be deployed using:
+
+- GitHub Pages
+- Netlify
+- Vercel
+- Azure Static Web Apps
+
+---
+
+# 🤝 Contributing
+
+Contributions, suggestions, and feedback are welcome.
+
+Feel free to fork the repository and submit a pull request.
+
+---
+
+# ⭐ Support
+
+If you like this project, don't forget to give it a ⭐ on GitHub.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+
+
+## 👨‍💻 Author
+
+**Naveen Mohanavel**
+
+Computer Science Engineering Student
+
+Passionate about
+
+- Web Development
+- Cloud Computing
+- Java Development
+- Networking
+- Artificial Intelligence
+- Open Source
+
+---
+
+### Thank you for visiting my portfolio! 🚀
